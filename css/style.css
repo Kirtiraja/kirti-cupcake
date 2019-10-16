@@ -1,0 +1,24 @@
+img {
+  width: 400px;
+  height: inherit;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-size: 100px;
+  font-family: cursive;
+  color: gold
+}
+
+.kids {
+  font-family: 'Butterfly Kids', cursive;
+  font-size: 100px;
+  background: linear-gradient(to bottom, #33ccff 0%, #ff33cc 100%);
+}
